@@ -1,13 +1,13 @@
 
-# 🎙️ Speech-Based Emotion Recognition Using Deep Learning
+# Speech-Based Emotion Recognition Using Deep Learning
 
-## 🧠 Summary
+## Summary
 
 Human emotions play a crucial role in communication, and recognizing emotions from speech can significantly improve human-computer interactions. This project aims to develop a deep learning model that analyzes voice patterns and classifies emotions. The goal is to enhance applications in healthcare, virtual assistants, and customer service by making AI more emotionally intelligent.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Develop a deep learning model for classifying emotions from speech.
 - Use advanced speech processing techniques to extract meaningful features.
@@ -16,9 +16,9 @@ Human emotions play a crucial role in communication, and recognizing emotions fr
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
-### 📁 Dataset
+### Dataset
 We will use publicly available emotional speech datasets:
 
 - **RAVDESS** – Ryerson Audio-Visual Database of Emotional Speech and Song  
@@ -26,7 +26,7 @@ We will use publicly available emotional speech datasets:
 - **IEMOCAP** – Interactive Emotional Dyadic Motion Capture Database  
 - **TESS** – Toronto Emotional Speech Set
 
-### 🎵 Feature Extraction
+### Feature Extraction
 
 We will extract speech features using:
 
@@ -34,13 +34,13 @@ We will extract speech features using:
 - **Spectrograms**
 - **Pitch Analysis**
 
-### 🧠 Model Selection
+### Model Selection
 
 - Train **CNNs** for spectrogram-based emotion classification.
 - Use **LSTMs/RNNs** to model sequential speech data.
 - Experiment with **transformer-based models** such as **Wav2Vec** for improved performance.
 
-### 🔧 Implementation Tools
+### Implementation Tools
 
 - **Librosa** for audio preprocessing
 - **TensorFlow / Keras** or **PyTorch** for deep learning models
@@ -48,13 +48,13 @@ We will extract speech features using:
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
-### ✅ Qualitative Analysis
+### Qualitative Analysis
 
 - Visualize spectrograms to observe patterns across different emotions.
 
-### 📈 Quantitative Analysis
+### Quantitative Analysis
 
 - Accuracy, Precision, Recall, and F1-score
 - Confusion Matrix to analyze misclassifications
@@ -62,7 +62,7 @@ We will extract speech features using:
 
 ---
 
-## 📚 Comparison
+## Comparison
 
 We will compare the following architectures:
 
@@ -72,7 +72,7 @@ We will compare the following architectures:
 
 ---
 
-## 📂 Dataset Descriptions
+## Dataset Descriptions
 
 | Dataset   | Description |
 |-----------|-------------|
@@ -83,7 +83,7 @@ We will compare the following architectures:
 
 ---
 
-## 🔗 References
+## References
 
 - Research papers on speech-based emotion recognition
 - Studies on deep learning models for audio classification
@@ -92,13 +92,13 @@ We will compare the following architectures:
 
 ---
 
-## 🔗 Project Board
+## Project Board
 
 [GitHub Project Board](https://github.com/users/Nisch9/projects/2/views/1)
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Nischith Adavala** – 50591641  
 - **Rakshith Reddy Dargula** – 50591661  
